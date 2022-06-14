@@ -1,0 +1,31 @@
+Here is a list of questions that SPE has asked multiple times. Please study these at a minimum
+-equals() and == 
+-overloading vs overriding
+-static method can be overloaded , overridden or not
+-constructor overloading
+-final keyword and finally
+-encapsulation
+-string buffer and string builder
+-what is springboot 
+-annotations(autowired)
+-directives (angular)
+ 
+-*difference between get and load in hibernate
+-*N+1 SELECT problem in hibernate
+-*save() vs persist() in hibernate
+-*detached object
+-*Lazy loading exception
+-*Session and Session Factory
+-*save() and saveOrUpdate()
+-*What are three states of Hibernate persistence object ?
+-*is java pass by values or pass by reference ?
+ 
+Give an array of integers, reverse the order:
+int intArray[] = {1,2,4,5,6,7,8,9}
+ 
+*Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+Example 1:
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
